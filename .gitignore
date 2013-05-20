@@ -1,6 +1,9 @@
 *.class
 */target/**
-*.idea/**
+
+#intellij artifacts
+.idea
+*.iml
 
 # Package Files #
 *.jar
